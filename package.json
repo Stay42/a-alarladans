@@ -1,0 +1,27 @@
+{
+  "name": "reawen-moderation-bot",
+  "version": "0.0.2",
+  "description": "Created by Reawen.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Reawen"
+  ]
+}
